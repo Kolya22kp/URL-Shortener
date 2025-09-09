@@ -1,0 +1,23 @@
+INFO 2025-09-09 14:27:51,796 autoreload 17762 8451809472 Watching for file changes with StatReloader
+INFO 2025-09-09 14:28:04,561 basehttp 17762 6126088192 "GET /api/v1/stats/oDjtM0/ HTTP/1.1" 200 130
+INFO 2025-09-09 14:28:16,016 basehttp 17762 6126088192 "POST /api/v1/create/ HTTP/1.1" 201 131
+INFO 2025-09-09 14:28:54,427 basehttp 17762 6126088192 code 400, message Bad request version ('Tò]:ªÏ]\x99ªQ\x18\x06Ñª¯ç0\x7fÆK\x99')
+ERROR 2025-09-09 14:28:54,427 basehttp 17762 6126088192 You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-09-09 14:28:54,427 basehttp 17762 6126088192 code 400, message Bad HTTP/0.9 request type ("\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x035\x14ÿÄô5\x13r¢C§Ã\x80'")
+ERROR 2025-09-09 14:28:54,427 basehttp 17762 6126088192 You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-09-09 14:29:25,922 basehttp 17762 6126088192 code 400, message Bad HTTP/0.9 request type ("\x16\x03\x01\x01(\x01\x00\x01$\x03\x03VÊ\x91\x90\xadü\xad\x89ôÜ\x8eB\x14¤u\x96åw&@çù'c-¬4ùç\x92q\\")
+ERROR 2025-09-09 14:29:25,922 basehttp 17762 6126088192 You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-09-09 14:30:04,951 basehttp 17762 6126088192 "GET /api/v1/stats/oDjtM0/ HTTP/1.1" 200 130
+INFO 2025-09-09 14:30:44,892 basehttp 17762 6126088192 "GET /api/v1/stats/6KZAbp/ HTTP/1.1" 200 131
+INFO 2025-09-09 14:30:50,418 basehttp 17762 6126088192 code 400, message Bad request version ('WûÁöö$i\x00\x17\x00\x00\x00')
+ERROR 2025-09-09 14:30:50,418 basehttp 17762 6126088192 You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-09-09 14:30:50,419 basehttp 17762 6126088192 code 400, message Bad request version ('Ö')
+ERROR 2025-09-09 14:30:50,419 basehttp 17762 6126088192 You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-09-09 14:31:16,480 autoreload 17916 8451809472 Watching for file changes with StatReloader
+INFO 2025-09-09 14:31:21,909 autoreload 17933 8451809472 Watching for file changes with StatReloader
+WARNING 2025-09-09 14:31:23,471 log 17933 6170472448 Not Found: /
+WARNING 2025-09-09 14:31:23,472 basehttp 17933 6170472448 "GET / HTTP/1.1" 404 2305
+INFO 2025-09-09 14:32:27,212 basehttp 17933 6187298816 code 400, message Bad request version ('åJ\x94\x13ÐÈo3¶èë/÷ý\x15T\x00b\x13\x03\x13\x02\x13\x01Ì©Ì¨ÌªÀ0À,À(À$À\x14À')
+ERROR 2025-09-09 14:32:27,213 basehttp 17933 6187298816 You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-09-09 14:32:34,961 basehttp 17933 6170472448 "GET /api/v1/6KZAbp/ HTTP/1.1" 302 0
+INFO 2025-09-09 14:32:59,676 basehttp 17933 6187298816 "GET /api/v1/6KZAbp/ HTTP/1.1" 302 0
